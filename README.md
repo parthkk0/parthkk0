@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hii there 👋
 
 <!--
 **parthkk0/parthkk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
