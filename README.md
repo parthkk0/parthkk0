@@ -16,8 +16,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/-parthkadam*  
-- 💻 GitHub: https://github.com/parrthkk0
+- 💼 LinkedIn: www.linkedin.com/in/-parthkadam
+- 💻 GitHub: https://github.com/parthkk0
 
 ---
 
